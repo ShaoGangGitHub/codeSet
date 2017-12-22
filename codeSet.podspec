@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   # ―――  Spec Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――#
 
   s.name         = "codeSet"
-  s.version      = "v0.0.1"
+  s.version      = "0.0.1"
   s.summary      = "codeSet"
   s.description  = "codeSet,label"
   s.homepage     = "https://github.com/ShaoGangGitHub/codeSet"
@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.source       = { :git => "https://github.com/ShaoGangGitHub/codeSet.git", :tag => "v0.0.1" }
+  s.source       = { :git => "https://github.com/ShaoGangGitHub/codeSet.git", :tag => "0.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
