@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   # ―――  Spec Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――#
 
   s.name         = "codeSet"
-  s.version      = "0.0.1"
+  s.version      = "v0.0.1"
   s.summary      = "codeSet"
   s.description  = "codeSet,label"
   s.homepage     = "https://github.com/ShaoGangGitHub/codeSet"
