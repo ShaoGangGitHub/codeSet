@@ -26,12 +26,12 @@ Pod::Spec.new do |s|
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.source       = { :git => "https://github.com/ShaoGangGitHub/codeSet.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/ShaoGangGitHub/codeSet.git", :tag => s.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.source_files  = "codeSet/**/*.{h,m}"
+  s.source_files  = "codeSet/UILabel+AutoHeight"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
