@@ -1,0 +1,7 @@
+platform :ios, '7.0'
+target 'XLPhotoBrowserDemo' do
+    
+pod 'SDWebImage', '~> 4.0'
+pod 'JSONModel', '~> 1.7.0'
+
+end
