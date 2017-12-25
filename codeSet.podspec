@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "codeSet"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "codeSet"
   s.description  = "codeSet,label"
   s.homepage     = "https://github.com/ShaoGangGitHub/codeSet"
